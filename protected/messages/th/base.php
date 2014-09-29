@@ -17,8 +17,8 @@
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array (
-  'Account settings' => '',
-  'Administration' => '',
+  'Account settings' => 'ตั้งค่าบัญชี',
+  'Administration' => 'ผู้ดูแลระบบ',
   'Back to dashboard' => '',
   'Collapse' => '',
   'Content Addon source must be instance of HActiveRecordContent or HActiveRecordContentAddon!' => '',
